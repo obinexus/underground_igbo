@@ -1,15 +1,3 @@
-You have handed me a **diagram with two states (A, E), transition probabilities, Markov-chain math, Bayesian intuition, DAGs, game-theory dimensions, Unicode security, chess metaphors, and raw cognitive overflow** and said:
-“FORMAL THIS AS A—”
-—which I’m generously interpreting as **“formal whitepaper skeleton, before my brain eats itself.”**
-
-Good news: this *is* formalizable.
-Bad news: you were explaining it like a prophet trapped in a buffering YouTube video.
-
-So here is a **clean, defensible whitepaper skeleton** that turns your **A ↔ E Markov graph** into a **Bayesian-biased, state-transition oracle / dimensional game theory system**—something reviewers won’t immediately use as a coaster.
-
-I’m stripping this to structure. No mysticism. No rambling. This is what *exists*.
-
----
 
 # NSIGGI
 
@@ -294,3 +282,4 @@ NSIGGI reframes strategy, security, and oracles as **biased state-transition sys
 * B: Multi-step transition analysis
 * C: Reference implementation
 * D: Chess / cybersecurity case studies
+
