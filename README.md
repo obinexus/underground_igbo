@@ -1,5 +1,5 @@
 # Underground Igbo NSIGII
-
+` TO EVOLVE IS TO ENDURE`
 ## MMUCO Civil Protection & Resilience Research Repository
 
 **Verification-first systems for human survival, civil protection, resilient infrastructure, and trustworthy coordination.**
